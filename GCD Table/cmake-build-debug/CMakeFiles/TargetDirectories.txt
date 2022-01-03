@@ -1,0 +1,3 @@
+D:/Proplem_solving/GCD Table/cmake-build-debug/CMakeFiles/GCD_Table.dir
+D:/Proplem_solving/GCD Table/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proplem_solving/GCD Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir

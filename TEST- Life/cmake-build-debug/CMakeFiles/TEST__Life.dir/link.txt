@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TEST__Life.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\TEST__Life.dir/objects.a @CMakeFiles\TEST__Life.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\TEST__Life.dir/objects.a -Wl,--no-whole-archive -o TEST__Life.exe -Wl,--out-implib,libTEST__Life.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TEST__Life.dir\linklibs.rsp

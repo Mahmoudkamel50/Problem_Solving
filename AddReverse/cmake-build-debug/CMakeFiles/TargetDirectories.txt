@@ -1,0 +1,3 @@
+D:/Proplem_solving/AddReverse/cmake-build-debug/CMakeFiles/AddReverse.dir
+D:/Proplem_solving/AddReverse/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proplem_solving/AddReverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir

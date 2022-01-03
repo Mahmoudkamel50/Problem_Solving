@@ -1,0 +1,3 @@
+D:/Proplem_solving/TEST- Life/cmake-build-debug/CMakeFiles/TEST__Life.dir
+D:/Proplem_solving/TEST- Life/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proplem_solving/TEST- Life/cmake-build-debug/CMakeFiles/rebuild_cache.dir
